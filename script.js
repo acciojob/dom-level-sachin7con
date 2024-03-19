@@ -8,4 +8,4 @@ while(elem.parentNode.tagName.toLowerCase() !== 'html'){
 }
 
 
-alert(count);
+alert("The level of the element is: " + count);
